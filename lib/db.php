@@ -1,6 +1,6 @@
 <?php
 /*
- * This class is used for database alsp we have methods(connect, insert, update, and delete) operations
+ * This class is used for database also we have methods(connect, insert, update, and delete) operations
  *
  * Use PDO
  *
